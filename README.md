@@ -6,8 +6,8 @@ C06AT1 - Aplicaciones móviles - Ray Rojas Enciso
 ## Requerimientos
 | Software|Version  | Pagina |
 | --------|---------|-------|
-| Sqlite  |   00 |   1 |
-| VisualCode | 00 |   1  |
-| SublimeText | 00 |   1  |
-| Xampp | 00 |   1  |
-| Laravel | 00 |  1   |
+| Sqlite  |   00 |   [SQLite](https://www.sqlite.org/index.html) |
+| VisualCode | 00 |   [Visual Studio Code](https://code.visualstudio.com/)  |
+| SublimeText | 00 |   [Sublime Text](https://www.sublimetext.com/)  |
+| Xampp | 00 |   [XAMPP](https://www.apachefriends.org/es/index.html)  |
+| Laravel | 00 |  [Laravel](https://laravel.com/) |

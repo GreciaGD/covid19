@@ -4,7 +4,10 @@ C06AT1 - Aplicaciones móviles - Ray Rojas Enciso
     - Sapito
     - Leoncito
 ## Requerimientos
-| Day     | Meal    | Price |
+| Software|Version  | Pagina |
 | --------|---------|-------|
-| Monday  | pasta   | $6    |
-| Tuesday | chicken | $8    |
+| Sqlite  |   00 |   1 |
+| VisualCode | 00 |   1  |
+| SublimeText | 00 |   1  |
+| Xampp | 00 |   1  |
+| Laravel | 00 |  1   |

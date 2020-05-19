@@ -14,4 +14,4 @@ C06AT1 - Aplicaciones móviles - Ray Rojas Enciso
 ## Como desplegar la Aplicaciones
     - Para desplegar la aplicación se realiza lo siguiente:
       - Abrir la aplicación
-      - Y desplegar :)
+      - Y desplegar :) :)

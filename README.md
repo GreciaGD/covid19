@@ -17,3 +17,5 @@ C06AT1 - Aplicaciones móviles - Ray Rojas Enciso
       - Y desplegar :) :)
 ## Descripción Del Proyecto
 Es un **proyecto** de practica para las clases de **Aplicaciones Móviles ♥**.
+## Cambios en dev.v1
+    - Los cambios son, **sapito**.

@@ -15,3 +15,5 @@ C06AT1 - Aplicaciones móviles - Ray Rojas Enciso
     - Para desplegar la aplicación se realiza lo siguiente:
       - Abrir la aplicación
       - Y desplegar :) :)
+## Descripción Del Proyecto
+Es un proyecto de practica para las clases de Aplicaciones Móviles ♥

@@ -11,3 +11,7 @@ C06AT1 - Aplicaciones móviles - Ray Rojas Enciso
 | SublimeText | 00 |   [Sublime Text](https://www.sublimetext.com/)  |
 | Xampp | 00 |   [XAMPP](https://www.apachefriends.org/es/index.html)  |
 | Laravel | 00 |  [Laravel](https://laravel.com/) |
+## Como desplegar la Aplicaciones
+    - Para desplegar la aplicación se realiza lo siguiente:
+      - Abrir la aplicación
+      - Y desplegar :)
